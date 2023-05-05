@@ -1,2 +1,2 @@
 # Celestia-PFB-UI
-UI for the PayForBlob transactions in Celesita Blockspace Testnet.
+UI for the PayForBlob transactions in Celestia Blockspace Testnet.
